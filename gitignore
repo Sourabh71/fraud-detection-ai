@@ -1,0 +1,29 @@
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Hidden system files
+.DS_Store
+Thumbs.db
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Large files and models
+*.pkl
+*.joblib
+*.h5
+*.csv
+
+# Environment and virtualenv
+.env
+.venv/
+*.egg-info/
+
+# Google Colab mount paths
+content/drive/
+
+# Editor settings
+.vscode/
